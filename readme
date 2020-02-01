@@ -1,0 +1,6 @@
+# PyDemo
+> 一些小脚本
+> > 随便写的py，大佬见谅
+## 1.EditFileName(重命名文件夹)
+`EditFileName.py`:修改当前文件夹下的文件后缀名<br>
+`EditFileName_new.py`:修改该目录下所有文件的文件后缀名，通过递归的方式遍历所有文件夹.
